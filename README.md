@@ -42,7 +42,7 @@ Developed an interactive Retail Sales Dashboard using Excel, MySQL, and Power BI
 * Analyze KPIs, revenue trends, and product performance through the interactive dashboard.
 
 ## 📸 Dashboard Preview
-<img width="1028" height="587" alt="image" src="https://github.com/user-attachments/assets/ea8a654c-3120-47a7-8434-14c99d6c6695" />
+<img width="1018" height="588" alt="image" src="https://github.com/user-attachments/assets/8beaa0e9-6db5-4e12-ac98-9f7294496bfa" />
 
 ## 📚 Learning Outcomes
 * Gained hands-on experience in data cleaning using Excel.
